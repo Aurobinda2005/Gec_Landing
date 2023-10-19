@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+*{
+    margin: 2.2px;
+    padding: 2.2px;
+
+}
+
+.container{
+    max-width: 90vw;
+    
+}
+
+.navbar{
+    display: flex;
+    
+    font-family: 'PT Serif', serif;
+}
+.navbar li{
+    list-style: none;
+    margin:0 12px ;
+
+    
+}
+
+.topleft{
+    width: 60%;
+   padding: 12px 0;
+}
+
+.topright{
+    width: 50%;
+
+    
+}
+
+.section1{
+    height: 43vh;
+}
+
+.logo{
+    font-size: 1.3rem;
+}
+
+element.style{
+    height: 90px;
+}
+
+.section4{
+    padding: 15px 0;
+    font-size:20px;
+    margin: 12px ;
+}
+
+.section3{
+    font-size:20px;
+    padding:  12px 0px;
+    margin: 12px ;
+    
+    
+}
+
+.text-red{
+    color:red;
+}
+
+.btn{
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.text-blue{
+    color: blue;
+}
+
+footer{
+    padding: 23px;
+    text-align: center;
+}
+
+
+
+
+
+
